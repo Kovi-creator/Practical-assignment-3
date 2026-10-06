@@ -1,3 +1,17 @@
+
+/*
+px : pixel - common
+pt : for printing
+rem : relative to the root element font size
+em : padding :1.2 em
+% :
+vw or vh : % for width or height
+fr : fraction
+*/
+
+
+
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
